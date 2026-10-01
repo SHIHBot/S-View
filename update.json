@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.1/S-View.exe",
-  "notes": "修正更新後出現 Failed to start embedded python interpreter 的問題。"
+  "version": "1.7.2",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.2/S-View.exe",
+  "notes": "提示視窗改成跟程式一樣的深色樣式。影片播完再按播放會從頭重播。"
 }
