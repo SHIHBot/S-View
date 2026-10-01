@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.5.0/S-View.exe",
-  "notes": "改名為 S-View，換上新 logo。影片可以分享，並查看詳情。"
+  "version": "1.6.1",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.6.1/S-View.exe",
+  "notes": "視窗改窄。分享會產生連結並複製。"
 }
