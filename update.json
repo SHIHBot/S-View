@@ -1,5 +1,5 @@
 {
-  "version": "1.7.6",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.6/S-View.exe",
-  "notes": "更新下載會顯示百分比和進度條。"
+  "version": "1.7.7",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.7/S-View.exe",
+  "notes": "設定改成跟 NVIDIA 一樣。可以選編碼器、預設、解析度、幀率和位元率。高畫質會先縮成 1080p 再錄。"
 }
