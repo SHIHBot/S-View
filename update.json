@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.6.1/S-View.exe",
-  "notes": "視窗改窄。分享會產生連結並複製。"
+  "version": "1.7.0",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.0/S-View.exe",
+  "notes": "第一次開啟會詢問安裝位置，並在桌面建立捷徑。影片預設存到 S-View\\video。"
 }
