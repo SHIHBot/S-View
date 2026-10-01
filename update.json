@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.3/S-View.exe",
-  "notes": "修正更新後出現 Failed to load Python DLL 的問題。"
+  "version": "1.7.4",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.4/S-View.exe",
+  "notes": "沒有 NVIDIA 的電腦錄影時，整段都會寫進檔案，不再只剩開頭幾秒。"
 }
