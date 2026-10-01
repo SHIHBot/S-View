@@ -1,5 +1,5 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.4/S-View.exe",
-  "notes": "沒有 NVIDIA 的電腦錄影時，整段都會寫進檔案，不再只剩開頭幾秒。"
+  "version": "1.7.5",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.5/S-View.exe",
+  "notes": "設定裡可以自己選編碼，也可以用自動偵測。"
 }
