@@ -1,5 +1,5 @@
 {
-  "version": "1.7.12",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.12/S-View.exe",
-  "notes": "分享連結可以打開播放。"
+  "version": "1.7.13",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.13/S-View.exe",
+  "notes": "播放更順，可錄電腦聲音，倒數可調，錄影面板不會被錄進去。"
 }
