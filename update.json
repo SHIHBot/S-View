@@ -1,5 +1,5 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.8/S-View.exe",
-  "notes": "修正更新視窗。"
+  "version": "1.7.9",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.9/S-View.exe",
+  "notes": "修正無法準備錄影。"
 }
