@@ -1,5 +1,5 @@
 {
-  "version": "1.7.10",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.10/S-View.exe",
-  "notes": "錄影時可以暫停。懸浮視窗會顯示停止和暫停的快捷鍵。"
+  "version": "1.7.11",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.11/S-View.exe",
+  "notes": "桌面只留一個 S-View。舊版本改存到程式資料夾。"
 }
