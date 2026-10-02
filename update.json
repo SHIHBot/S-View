@@ -1,5 +1,5 @@
 {
-  "version": "1.7.11",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.11/S-View.exe",
-  "notes": "桌面只留一個 S-View。舊版本改存到程式資料夾。"
+  "version": "1.7.12",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.12/S-View.exe",
+  "notes": "分享連結可以打開播放。"
 }
