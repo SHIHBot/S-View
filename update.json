@@ -1,5 +1,5 @@
 {
-  "version": "1.7.9",
-  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.9/S-View.exe",
-  "notes": "修正無法準備錄影。"
+  "version": "1.7.10",
+  "url": "https://github.com/SHIHBot/S-View/releases/download/v1.7.10/S-View.exe",
+  "notes": "錄影時可以暫停。懸浮視窗會顯示停止和暫停的快捷鍵。"
 }
